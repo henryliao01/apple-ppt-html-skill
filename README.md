@@ -10,13 +10,13 @@ Design language: squircle cards, backdrop-filter blur, SF Pro Display font, blue
 
 ## Installation
 
-**Option A — npm (Node.js 16+ required):**
+**Option A — npx skills (推荐，最简单):**
 
 ```bash
-npm install -g github:henryliao01/apple-ppt-html-skill
+npx skills add henryliao01/apple-ppt-html-skill
 ```
 
-**Option B — git clone (recommended, no npm needed):**
+**Option B — git clone:**
 
 ```bash
 # Mac / Linux
@@ -24,6 +24,12 @@ git clone https://github.com/henryliao01/apple-ppt-html-skill ~/.claude/skills/a
 
 # Windows PowerShell
 git clone https://github.com/henryliao01/apple-ppt-html-skill "$env:USERPROFILE\.claude\skills\apple-ppt-html"
+```
+
+**Option C — npm:**
+
+```bash
+npm install -g github:henryliao01/apple-ppt-html-skill
 ```
 
 Restart Claude Code after installation.
