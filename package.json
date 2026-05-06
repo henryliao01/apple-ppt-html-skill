@@ -1,0 +1,14 @@
+{
+  "name": "apple-ppt-html-skill",
+  "version": "1.0.0",
+  "description": "Claude Code skill — generate Apple-style interactive HTML slide decks",
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "keywords": ["claude", "claude-code", "skill", "presentation", "ppt", "html"],
+  "author": "henryliao01",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  }
+}
